@@ -1,0 +1,9 @@
+title: AirSupplier
+description:  Here, you can find cool stuff I work on.
+remote_theme: tuur29/pages-themes-cayman
+darkmode: true
+color:
+  header: "#000"
+  gradient_left: "#10a5f5"
+  gradient_right: "#add8e6"
+logo_url: https://airsupplier.github.io/assets/img/airsupplier.png
