@@ -4,6 +4,6 @@ remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 color:
   header: "#000"
-  gradient_left: "#5858c7"
-  gradient_right: "#e6e427"
+  gradient_left: "#fff000"
+  gradient_right: "#000fff"
 logo_url: https://airsupplier.github.io/dpy-docs/assets/img/discordpy.png
